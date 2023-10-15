@@ -4,7 +4,7 @@
 main.accio#job{
 	width:150px;
 	height:150px;
-	background:'rgb(0, 0, 0)';
+	background:'rgb(0, 0, 0);
 }
 p{
 	color:rgb(255, 255, 255);
